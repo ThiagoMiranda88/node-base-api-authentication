@@ -1,0 +1,11 @@
+npm install
+npm install jsonwebtoken
+npm install -D @types/jsonwebtoken
+npm install nodemailer
+npm install -D @types/nodemailer
+npm install passport
+npm install -D @types/passport
+npm install passport-http
+npm install -D @types/passport-http
+npm install passport-jwt
+npm install -D @types/passport-jwt
